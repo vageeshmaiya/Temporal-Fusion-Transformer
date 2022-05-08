@@ -14,6 +14,10 @@
 
 ## Acknowledgement
 
-We appreciate the following github repos a lot for their valuable code base:
+We appreciate the following github repos a lot for their valuable code base and datasets:
 
 https://github.com/unit8co/darts
+
+Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power Sources 2019, 435, 226830
+
+Calce Battery Research Group. [Online]. Available: https://web. calce.umd.edu/batteries/data.htm
